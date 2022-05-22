@@ -22,20 +22,19 @@
   margin: auto;
 
 }
-.header .navbar .logo{
-  width: 160px;
+.header .navbar .cart{
+  width: 40px;
   cursor: pointer;
 }
-header .navbar .cart{
-  width: 40px;
+.header .navbar .logo{
+  width: 160px;
   cursor: pointer;
 }
 nav{
   padding-left: 80px;
   flex: 1;
 }
-nav ul li{
-  display: inline-block;
-  list-style: none;
-  margin: 0px 20px;
+nav ul li a{ 
+text-decoration: none;
+color: #333;
 }
