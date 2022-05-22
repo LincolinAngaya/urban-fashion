@@ -1,9 +1,5 @@
-body{
-  background-color: red;
-}
-p{
-  color:red;
-}
-div{
-  color:blue;
+*{
+  margin: 0;
+  padding: 0;
+  transition: 0.5s;
 }
