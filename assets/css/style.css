@@ -47,8 +47,6 @@ margin: 0px 20px;
   }
 
   .content{
-    background-color: white;
-    /* width: 50%; */
     margin-top: 10%;
     margin-left: 14%;
   }
@@ -88,8 +86,12 @@ margin: 0px 20px;
 
    }
   
-    .feature-img img {
-    
+    .feature-img  {
+    height: 90%;
+    position: absolute;
+    bottom: 0;
+    right: 160px;
+
    }
   
   
