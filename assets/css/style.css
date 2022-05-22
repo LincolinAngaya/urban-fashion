@@ -50,7 +50,7 @@ margin: 0px 20px;
     background-color: white;
     /* width: 50%; */
     margin-top: 10%;
-    margin-left: 10%;
+    margin-left: 14%;
   }
   .content h1{
    font-size: 60px;
@@ -76,6 +76,17 @@ margin: 0px 20px;
      box-shadow: 5px 7px 18px rgba(94,28,68,0.75);
 
    }
-  
+   .content .arrow-icons{
+    margin-top: 24px;
+    margin-bottom: 15px;
+
+   }
+
+   .content .arrow-icons img{
+    width: 40px;
+    padding: 20px 10px;
+
+   }
+   
   
    
